@@ -1,3 +1,9 @@
+// useState: Hook to add and manage local state in a functional component
+// Syntax: const [state, setState] = useState(initialValue);
+
+// useEffect: Hook to handle side effects (e.g., data fetching, subscriptions, timers)
+// Syntax: useEffect(() => { /* effect code */ return () => { /* cleanup */ } }, [dependencies]);
+
 import { useState, useEffect, type JSX } from 'react';
 import { Trash2, Plus, CheckCircle2, Circle, Edit3, Save, X } from 'lucide-react';
 
