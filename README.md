@@ -7,7 +7,7 @@ An elegant and minimal **To-do List App** built with **React**, **TypeScript**, 
 ## 🚀 Live Demo
 
 [![View Live](https://img.shields.io/badge/🌐%20Live-Click%20Here-blueviolet?style=flat\&logo=vercel\&logoColor=white)](https://your-deployment-url.com)
-[![Source Code](https://img.shields.io/badge/💻%20Code-GitHub-lightpink?style=flat\&logo=github)](https://github.com/SanyaShresta25/todo-app)
+[![Source Code](https://img.shields.io/badge/💻%20Code-GitHub-lightpink?style=flat\&logo=github)](https://github.com/SanyaShresta25/To-Do-List)
 
 ---
 
