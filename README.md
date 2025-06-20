@@ -12,8 +12,10 @@ An elegant and minimal **To-do List App** built with **React**, **TypeScript**, 
 ---
 
 ## 📸 Screenshot
+<p align="center">
+  <img src="./screenshot.png" alt="Todo App Screenshot" width="450" />
+</p>
 
-![Todo App Screenshot](./screenshot.png)
 
 ---
 
